@@ -10,8 +10,8 @@ https://hub.docker.com/repository/docker/wilssuur/examcontainer/general
 
 Команды для загрузки образа на Docker hub:
 
-docker build -t wilssuur/myprogram .
+docker build -t wilssuur/examcontainer.
 
 docker login
 
-docker push wilssuur/myprogram
+docker push wilssuur/examcontainer
