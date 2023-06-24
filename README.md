@@ -6,9 +6,9 @@ https://hub.docker.com/repository/docker/wilssuur/examcontainer/general
 # Commands
 Построить контейнер: 
 
-'''
+```
 docker build -t MyContainerName .
-'''
+```
 
 Запустить контейнер: 
 
