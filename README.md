@@ -12,19 +12,19 @@ docker build -t MyContainerName .
 
 Запустить контейнер: 
 
-'''
+```
 docker run -it --rm -p 33333:33333 --name my-running-app MyContainerName
-'''
+```
 
 Команды для загрузки образа на Docker hub:
 
-'''
+```
 docker build -t wilssuur/examcontainer.
 
 docker login
 
 docker push wilssuur/examcontainer
-'''
+```
 
 #Screens
 ![image](https://github.com/wilssuur/tech_prog_exam/assets/124897239/b3f680f0-e3f1-4948-861e-a62e9fede34e)
