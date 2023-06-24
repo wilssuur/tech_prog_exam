@@ -15,3 +15,8 @@ docker build -t wilssuur/examcontainer.
 docker login
 
 docker push wilssuur/examcontainer
+
+![image](https://github.com/wilssuur/tech_prog_exam/assets/124897239/b3f680f0-e3f1-4948-861e-a62e9fede34e)
+
+![image](https://github.com/wilssuur/tech_prog_exam/assets/124897239/293bb930-b120-4f62-8124-24faff9111ee)
+
