@@ -5,14 +5,19 @@ https://hub.docker.com/repository/docker/wilssuur/examcontainer/general
 
 # Commands
 Построить контейнер: 
+
 '''
 docker build -t MyContainerName .
 '''
+
 Запустить контейнер: 
+
 '''
 docker run -it --rm -p 33333:33333 --name my-running-app MyContainerName
 '''
+
 Команды для загрузки образа на Docker hub:
+
 '''
 docker build -t wilssuur/examcontainer.
 
